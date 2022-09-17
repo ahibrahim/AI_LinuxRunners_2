@@ -1,3 +1,3 @@
 # AI_LinuxRunners_2
 
-This repository will contain all the projects or assignments related to Linux runners studz group 2
+This repository will contain all the projects and assignments related to Linux runners study group 2
